@@ -16,7 +16,7 @@
 
 |参数名|必选|类型|说明|
 |-----    |:---|:----- |-----   |
-| nickname |Y  |string | 昵称 |
+| nick |Y  |string | 昵称 |
 | email |Y  |string | 邮箱  |
 | verification | N    | string | 邮箱验证码 |
 | pwd1         | Y    | string | 密码       |
